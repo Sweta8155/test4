@@ -1,0 +1,4 @@
+hello
+how are you
+this is test4 folder
+this is temporary file
